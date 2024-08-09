@@ -1,23 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 body{
-  background-color: light purple;
-  font-family: "Dancing Script";
+  background-color:light purple;
+  font-family:"Dancing Script";
   test-align:center;
-  font-size: 200%;
+  font-size:200%;
 }
 header{
-    color: white;
+    color:white;
     text-shadow: 5px 5px 3px blue;
   }
 section{
   background-color: light purple;
-  width: 300px;
-  margin: auto;
-  border-radius: 30px;
-  box-shadow: 5px 5px 5px blue;
+  width:300px;
+  margin:auto;
+  border-radius:30px;
+  box-shadow:5px 5px 5px blue;
 }
   footer{
   color: white;
-  text-shadow: 5px 5px 3px blue;
+  text-shadow:5px 5px 3px blue;
   }
